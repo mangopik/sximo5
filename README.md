@@ -4,7 +4,7 @@ You can instantly create web sites that allow users to view, edit, search, add a
 
 The generated codes are clean, straightforward and easy-to-customize. SximoBuilder can save you tons of time and is suitable for both beginners and experienced develpers alike
 
-[Documentation](https://github.com/mangopik/sximo5/wiki)
+[Read Full Documentation](https://github.com/mangopik/sximo5/wiki)
 
 
 #### Features
