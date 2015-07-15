@@ -1,5 +1,7 @@
 **SximoBuilder** is a powerful automation tool that can generate a full set of PHP quickly from MySQL. 
 
+![sximo5](https://image-cc.s3.envato.com/files/138888170/inline_preview_sximo5.jpg)
+
 You can instantly create web sites that allow users to view, edit, search, add and delete records on the web. SximoBuilder is designed for high flexibility, numerous options enable you to generate PHP applications that best suits your needs. 
 
 The generated codes are clean, straightforward and easy-to-customize. SximoBuilder can save you tons of time and is suitable for both beginners and experienced develpers alike
